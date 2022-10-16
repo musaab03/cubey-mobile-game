@@ -1,1 +1,1 @@
-# cubey-mobile-game
+# Cubey
